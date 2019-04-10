@@ -1,6 +1,8 @@
 # Enrollment Bot
 ## About 
-This is bot written in Python for enrolling in your classes using selenium's webdriver API. 
+This is bot written in Python for enrolling in your classes using selenium's webdriver API.
+
+Once the bot runs, it will open up a instance of Google Chrome and perform the necessary steps for enrollment. 
 
 Hopefully it helps you get your classes as fast as possible!
 ## Set Up
